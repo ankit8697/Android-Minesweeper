@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="toggle_try">Try</string>
+    <string name="toggle_flag">Flag</string>
+</resources>
